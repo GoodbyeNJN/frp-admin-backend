@@ -954,7 +954,7 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@typescript-eslint/eslint-plugin@^4.6.1":
+"@typescript-eslint/eslint-plugin@^4.15.2":
   version "4.15.2"
   resolved "https://registry.npm.taobao.org/@typescript-eslint/eslint-plugin/download/@typescript-eslint/eslint-plugin-4.15.2.tgz#981b26b4076c62a5a55873fbef3fe98f83360c61"
   integrity sha1-mBsmtAdsYqWlWHP77z/pj4M2DGE=
@@ -980,7 +980,7 @@
     eslint-scope "^5.0.0"
     eslint-utils "^2.0.0"
 
-"@typescript-eslint/parser@^4.6.1":
+"@typescript-eslint/parser@^4.15.2":
   version "4.15.2"
   resolved "https://registry.npm.taobao.org/@typescript-eslint/parser/download/@typescript-eslint/parser-4.15.2.tgz#c804474321ef76a3955aec03664808f0d6e7872e"
   integrity sha1-yARHQyHvdqOVWuwDZkgI8Nbnhy4=
@@ -2233,6 +2233,11 @@ escodegen@^1.14.1:
   optionalDependencies:
     source-map "~0.6.1"
 
+eslint-config-alloy@^3.10.0:
+  version "3.10.0"
+  resolved "https://registry.npm.taobao.org/eslint-config-alloy/download/eslint-config-alloy-3.10.0.tgz?cache=0&sync_timestamp=1609210356208&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-config-alloy%2Fdownload%2Feslint-config-alloy-3.10.0.tgz#b2d85ba3bd7dddcc6d7fc79088c192a646f4f246"
+  integrity sha1-sthbo7193cxtf8eQiMGSpkb08kY=
+
 eslint-config-prettier@7.2.0:
   version "7.2.0"
   resolved "https://registry.npm.taobao.org/eslint-config-prettier/download/eslint-config-prettier-7.2.0.tgz?cache=0&sync_timestamp=1614187358311&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-config-prettier%2Fdownload%2Feslint-config-prettier-7.2.0.tgz#f4a4bd2832e810e8cc7c1411ec85b3e85c0c53f9"
@@ -2270,7 +2275,7 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.npm.taobao.org/eslint-visitor-keys/download/eslint-visitor-keys-2.0.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Feslint-visitor-keys%2Fdownload%2Feslint-visitor-keys-2.0.0.tgz#21fdc8fbcd9c795cc0321f0563702095751511a8"
   integrity sha1-If3I+82ceVzAMh8FY3AglXUVEag=
 
-eslint@^7.12.1:
+eslint@^7.20.0:
   version "7.20.0"
   resolved "https://registry.npm.taobao.org/eslint/download/eslint-7.20.0.tgz#db07c4ca4eda2e2316e7aa57ac7fc91ec550bdc7"
   integrity sha1-2wfEyk7aLiMW56pXrH/JHsVQvcc=
@@ -5702,7 +5707,7 @@ typescript@4.1.5:
   resolved "https://registry.npm.taobao.org/typescript/download/typescript-4.1.5.tgz?cache=0&sync_timestamp=1614237838928&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
   integrity sha1-Ejo7IUqv874ykm8Njx9ucE64mnI=
 
-typescript@^4.0.5:
+typescript@^4.2.2:
   version "4.2.2"
   resolved "https://registry.npm.taobao.org/typescript/download/typescript-4.2.2.tgz?cache=0&sync_timestamp=1614237838928&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-4.2.2.tgz#1450f020618f872db0ea17317d16d8da8ddb8c4c"
   integrity sha1-FFDwIGGPhy2w6hcxfRbY2o3bjEw=
