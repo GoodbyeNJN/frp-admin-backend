@@ -10,6 +10,7 @@
         "outDir": "./dist",
         "strict": true,
         "paths": {
+            "~/*": ["./*"],
             "@/*": ["src/*"]
         },
         "allowSyntheticDefaultImports": true,

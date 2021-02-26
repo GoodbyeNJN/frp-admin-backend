@@ -1,0 +1,3 @@
+import { FRPS_API, FRPS_USERNAME, FRPS_PASSWORD } from "./frps";
+
+export { FRPS_API, FRPS_USERNAME, FRPS_PASSWORD };
